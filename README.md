@@ -12,7 +12,7 @@ What It Does
 Tech Stack
 - Backend: Flask (Python 3.12)
 - Frontend: HTML
-- Model: Deep learning-based accent prediction
+- Model: Deep learning-based accent prediction - Using HuggingFace's ylacombe/accent-classifier.
 - Audio Processing: Extracts audio from video using moviepy.
 
 Getting Started
